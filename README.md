@@ -1,6 +1,6 @@
-OOP
-Method overload
-Static
-Singleton
-Pattern
-Debug
+- OOP
+- Method overload
+- Static
+- Singleton
+- Pattern
+- Debug
